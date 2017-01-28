@@ -15,3 +15,6 @@ then I'm pushing my master to MY remote (origin)
 
 then I'm going to MY github account, verifying the commits are there, and then
     clicking create pull request
+
+
+Is it or is it not possible to merge branch to master on the github interface instead of doing it locally in the command line
