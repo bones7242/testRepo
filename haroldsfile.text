@@ -1,4 +1,4 @@
-I'm making a new file and committing it to my branch
+I'm making a new file and committing it to a new feature branch
     git checkout -b newfile
     git touch haroldsfile.txt
     [make edits]
@@ -9,7 +9,7 @@ then I'm checking out my master, and merging the branch into master
     git checkout master
     git merge newfile
 
-then I'm pushing my master to MY remote
+then I'm pushing my master to MY remote (origin)
     (still with master checked out)
     git push origin master
 
